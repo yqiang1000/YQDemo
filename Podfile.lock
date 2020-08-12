@@ -1,0 +1,22 @@
+PODS:
+  - YQTestLogining (0.1.0):
+    - YQTestNetworking
+  - YQTestNetworking (0.1.0)
+
+DEPENDENCIES:
+  - YQTestLogining (from `Lib/YQTestLogining`)
+  - YQTestNetworking (from `Lib/YQTestNetworking`)
+
+EXTERNAL SOURCES:
+  YQTestLogining:
+    :path: Lib/YQTestLogining
+  YQTestNetworking:
+    :path: Lib/YQTestNetworking
+
+SPEC CHECKSUMS:
+  YQTestLogining: 6949a252b486efc6853d93a163e9de4fb0bd2e0a
+  YQTestNetworking: 9033b89f2e7621831433e66d93860a5b4575082d
+
+PODFILE CHECKSUM: 8724e9267a2efb5012723e146d939ed6bab3fc87
+
+COCOAPODS: 1.9.2

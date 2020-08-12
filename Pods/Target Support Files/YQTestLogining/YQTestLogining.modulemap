@@ -1,0 +1,6 @@
+framework module YQTestLogining {
+  umbrella header "YQTestLogining-umbrella.h"
+
+  export *
+  module * { export * }
+}

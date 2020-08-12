@@ -1,0 +1,6 @@
+framework module YQTestNetworking {
+  umbrella header "YQTestNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

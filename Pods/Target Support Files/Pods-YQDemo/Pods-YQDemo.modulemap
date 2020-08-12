@@ -1,0 +1,6 @@
+framework module Pods_YQDemo {
+  umbrella header "Pods-YQDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
